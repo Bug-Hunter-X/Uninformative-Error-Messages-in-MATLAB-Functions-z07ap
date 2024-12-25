@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in MATLAB where error handling within functions produces unclear or unhelpful error messages. The `bug.m` file contains the problematic code, while `bugSolution.m` provides an improved solution.  The example highlights the importance of providing detailed error messages for better debugging and troubleshooting.
